@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Natura Pedidos On-line</string>
+
+    <string name="drawer_open">Aberto</string>
+    <string name="drawer_closed">Fechado</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+<string name="action_settings">Settings</string>
+    <string-array name="frases">
+        <item>Carregando</item>
+        <item>Gerando Bem Estar Bem</item>
+        <item>Tornando seu dia mais #Essencial</item>
+        <item>Coletando flores pro seu #KriskaFlores</item>
+        <item>Deixando seu #KaiakAventura mais Radical</item>
+        <item>Encorpando seu #NaturaHomem</item>
+        <item>Reconstruindo Cabelos com #EkosMurumuru</item>
+        <item>Suavizando momentos com #Luna</item>
+    </string-array>
+    <string name="avaliado">0</string>
+    <string name="frases_">0</string>
+</resources>
